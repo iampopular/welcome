@@ -1,0 +1,15 @@
+{
+    "name": "devhiren/welcome",
+    "authors": [
+        {
+            "name": "iampopular",
+            "email": "hirendrasinh123@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Devhiren\\Welcome\\": "src/"
+        }
+    }
+}
